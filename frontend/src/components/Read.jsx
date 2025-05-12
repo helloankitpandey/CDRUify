@@ -17,7 +17,7 @@ export const Read = () => {
       setError(result.error);
     }else{
       setData(result);
-    }    
+    }     
   }
 
 
