@@ -12,12 +12,12 @@ export const Navbar = () => {
     <ul className="navbar-nav">
       <li className="nav-item">
         <Link to="/" className="nav-link" >Create Post</Link>
-      </li>
+      </li> 
       <li className="nav-item">
         <Link to="/all" className="nav-link" >All Post</Link>
       </li>
     </ul>
-  </div>
+  </div> 
 </nav>
   )
 }
