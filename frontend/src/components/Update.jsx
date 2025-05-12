@@ -15,7 +15,7 @@ export const Update = () => {
 
   const navigate = useNavigate();
 
-
+ 
   // get single user data
   const getSingleUser = async () => {
 
