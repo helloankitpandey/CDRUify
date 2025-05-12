@@ -8,6 +8,7 @@ dotenv.config();
 
 
 
+
 //Access to fetch at 'http://localhost:5000/' from origin 'http://localhost:3000' has been blocked by CORS policy:
 // cors-origin-policy
 // for preventing this we do below
